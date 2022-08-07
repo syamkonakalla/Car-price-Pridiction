@@ -1,1 +1,1 @@
-# Car-price-Pridiction
+# Coupon recommending system
